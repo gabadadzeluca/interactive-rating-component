@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/gabadadzeluca/interactive-rating-component)
-- Live Site URL: [Live URL]()
+- Live Site URL: [Live URL](https://gabadadzeluca@github.io/interactive-rating-component)
 
 ## My process
 
