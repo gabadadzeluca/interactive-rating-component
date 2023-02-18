@@ -1,0 +1,28 @@
+.final-screen{
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.final-score{
+    background-color: #262E38;    
+    text-align: center;
+    border-radius: 22.5rem;
+    color: #FC7614;
+    max-width: 16.8rem;
+    font-size: 1.4rem;
+    padding: 0.5rem 1.2rem;
+    font-weight: 400;
+}
+
+.heading{
+    font-weight: 700;
+    font-size: 2.4rem;
+    color: #FFFFFF;
+}
+
+.paragraph{
+    font-size: 1.4rem;
+    color: #969FAD;
+}
